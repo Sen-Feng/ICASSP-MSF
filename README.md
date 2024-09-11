@@ -1,6 +1,6 @@
 # MSF demo code for the paper "Robust Qualitative Data Clustering via Learnable Metric Space Fusion"
 # Datasetscs
-	Ten demo datasets are located in the Data folder.
+	Ten demo datasets are located in the CODE/datasets folder.
 # Code information
 	All codes are written in PyCharm. The functionality of each section is as follows:
 	The CODE folder contains the code details of the MSF algorithm.
