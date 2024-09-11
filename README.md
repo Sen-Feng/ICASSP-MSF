@@ -6,7 +6,7 @@
 	The CODE folder contains the code details of the MSF algorithm.
 	The MSF file is the execution file of the entire algorithm. The Metric_func file is the file for metric weight and metric fusion. The Weight file is a file that measures metric performance and assigns weights. UDM, CBDM, and EBDM are the base metrics we use. The Other_duc file contains some algorithms such as initialization and Adam algorithm. The information of the last ten data sets is placed in the datasets file.
 # How to run
-	Just add all files to the run path, and run the MSF.py file, the results will be seen in the command line window.
+	Just add all files to the run path and change the location where you call your dataset, then run the MSF.py file and the results will appear in the command line window.
 # Please cite the paper if the codes are helpful for your research. Citation information is provided below for the convenience of readers.
 
 General citation: 
